@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fabb83ad-5d67-4389-8d27-1ba752895a03" name="Default Changelist" comment="" />
+    <list default="true" id="fabb83ad-5d67-4389-8d27-1ba752895a03" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +17,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iZpaL73GKF4Ez6mUzDvFqF06Hd" />
   <component name="ProjectViewState">
@@ -44,20 +51,42 @@
       <updated>1602125031503</updated>
       <workItem from="1602125032852" duration="3550000" />
       <workItem from="1602128738832" duration="2267000" />
+      <workItem from="1602131051380" duration="1563000" />
+      <workItem from="1602159934670" duration="1715000" />
     </task>
+    <task id="LOCAL-00001" summary="Supply Demo html">
+      <created>1602131179642</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602131179642</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Supply Demo html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Supply Demo html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="577" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602128930733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="577" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602128930733" />
+    <state x="585" y="93" key="CommitChangelistDialog2" timestamp="1602131178916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="93" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602131178916" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1602128859013">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602128859013" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602131342274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602131342274" />
   </component>
 </project>
