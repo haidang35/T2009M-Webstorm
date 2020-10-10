@@ -1,0 +1,67 @@
+
+
+.A4{
+    width: 900px;
+    height: 1500px;
+    border: solid black 1px;
+    position: center;
+    background-color: white;
+    overflow: hidden;
+    margin-top: 60px;
+    margin-left: 460px;
+}
+.mainbox{
+    background-color: white;
+    margin: auto;
+    width: 800px;
+    overflow: hidden;
+
+}
+.headbox img{
+    width: 150px;
+    margin-top:20px;
+}
+.headbox{
+ border-bottom: dashed brown 2px;
+    padding-bottom: 10px;
+}
+.headbox p{
+    display:block;
+    margin-top: 20px;
+    text-align: right;
+    font-family: 'Roboto', sans-serif;
+    float: right;
+}
+.box-2{
+    border-bottom: dashed brown 2px;
+}
+.box-2 p{
+    font-family: 'Roboto', sans-serif;
+}
+.box-3 p{
+    font-family: 'Roboto', sans-serif;
+}
+.box-3{
+    border-bottom: dashed brown 2px;
+}
+.box-4{
+    font-family: 'Roboto', sans-serif;
+    border-bottom: dashed brown 2px;
+}
+.box-5{
+    font-family: 'Roboto', sans-serif;
+    border-bottom: dashed brown 2px;
+}
+.box-6{
+    font-family: 'Roboto', sans-serif;
+    border-bottom: dashed brown 2px;
+}
+.box-end{
+    font-family: 'Roboto', sans-serif;
+
+}
+.end-title{
+    display: block;
+    margin-left:232px;
+    margin-top: -33px;
+}

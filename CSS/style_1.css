@@ -1,0 +1,32 @@
+body{
+    background-image: url("../imgs/pt1.gif");
+    background-repeat: no-repeat;/* repeat x: lap theo chieu ngang, repeat y:lap theo chieu doc */
+    background-size: cover;
+}
+
+
+
+
+.tieude {
+    color: green;
+    background-color: antiquewhite;
+}
+p{
+    font-size: 18px;
+    line-height: 1.25;
+    font-family: Arial;
+    font-weight: normal; /*thin light normal medium semi-bold extra-bold*/
+    text-align: left; /* justify: can deu hai ben*/
+    text-decoration: none;
+}
+a{
+    color: darkcyan;
+    text-decoration: none;
+    font-size:20px;
+    font-family: Arial;
+    text-transform: uppercase; /* lowercase: viet thuog*/
+    /* capitalize : viet hoa chu cai dau tien cua moi chu */
+
+
+
+}

@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fabb83ad-5d67-4389-8d27-1ba752895a03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 2/asg_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 2/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/labs2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/style_1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session2_democss.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -30,6 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -54,7 +62,9 @@
       <workItem from="1602159934670" duration="2101000" />
       <workItem from="1602229361433" duration="929000" />
       <workItem from="1602230303287" duration="199000" />
-      <workItem from="1602293535563" duration="41000" />
+      <workItem from="1602293535563" duration="4633000" />
+      <workItem from="1602299474170" duration="4689000" />
+      <workItem from="1602332713356" duration="7390000" />
     </task>
     <task id="LOCAL-00001" summary="Supply Demo html">
       <created>1602131179642</created>
@@ -70,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602161724883</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="nop btvn">
+      <created>1602293614403</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602293614403</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,17 +96,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Supply Demo html" />
     <MESSAGE value="Supply Assignment 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Supply Assignment 1" />
+    <MESSAGE value="nop btvn" />
+    <option name="LAST_COMMIT_MESSAGE" value="nop btvn" />
   </component>
   <component name="WindowStateProjectService">
     <state x="577" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602128930733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="577" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602128930733" />
-    <state x="585" y="93" key="CommitChangelistDialog2" timestamp="1602161724055">
+    <state x="585" y="93" key="CommitChangelistDialog2" timestamp="1602293613594">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="93" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602161724055" />
+    <state x="585" y="93" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602293613594" />
     <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1602229594154">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -106,9 +124,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602230473680" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602162011543">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602293619823">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602162011543" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602293619823" />
   </component>
 </project>
