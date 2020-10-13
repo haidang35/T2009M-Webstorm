@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fabb83ad-5d67-4389-8d27-1ba752895a03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assignment 2/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 2/asg_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 2/asg_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 2/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/labs2.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/labs2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +45,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nguye\Desktop\Webstorm T2009M" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nguye\Desktop\Webstorm T2009M\Assignment 2" />
       <recent name="C:\Users\nguye\Desktop\Webstorm T2009M" />
@@ -64,7 +69,9 @@
       <workItem from="1602230303287" duration="199000" />
       <workItem from="1602293535563" duration="4633000" />
       <workItem from="1602299474170" duration="4689000" />
-      <workItem from="1602332713356" duration="7944000" />
+      <workItem from="1602332713356" duration="8864000" />
+      <workItem from="1602421567688" duration="1968000" />
+      <workItem from="1602552988845" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="Supply Demo html">
       <created>1602131179642</created>
@@ -101,7 +108,28 @@
       <option name="project" value="LOCAL" />
       <updated>1602340390193</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Supply Assignment 2">
+      <created>1602340676133</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602340676133</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Supply Assignment 2">
+      <created>1602340806172</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602340806172</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Supply Assignment 2">
+      <created>1602340972121</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602340972121</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,10 +147,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="577" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602128930733" />
-    <state x="585" y="93" key="CommitChangelistDialog2" timestamp="1602340389698">
+    <state x="585" y="93" key="CommitChangelistDialog2" timestamp="1602340971495">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="93" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602340389698" />
+    <state x="585" y="93" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602340971495" />
     <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1602229594154">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -139,9 +167,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602230473680" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602340409246">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602340984824">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602340409246" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602340984824" />
   </component>
 </project>
