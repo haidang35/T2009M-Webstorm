@@ -1,0 +1,137 @@
+body{
+    background-image: url("https://i.pinimg.com/564x/a7/ed/80/a7ed8092fe68e9bc7be94280c1b63f62.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+#box-main{
+    width: 1000px;
+    height: 1200px;
+    background-color: #f2f2f2;
+    margin-left: 440px;
+    margin-right: 300px;
+    margin-top: 90px;
+    overflow: hidden;
+
+
+}
+#box-top{
+    height: 200px;
+    background-color: #CD853F;
+    overflow: hidden;
+
+}
+#box-height{
+    background-color: #e6b96f;
+    width: 300px;
+    height: 1000px;
+    margin-left: 55px;
+    margin-top: -170px;
+
+
+
+
+}
+#img1{
+    width: 150px;
+    height: 150px;
+    border-radius:60%;
+    -moz-border-radius:60%;
+    -webkit-border-radius:60%;
+    margin-top: 45px;
+    margin-left: 77px;
+
+}
+#title1{
+    display: block;
+    margin-top: 55px;
+    margin-left: 460px;
+    font-size: 50px;
+}
+#title2{
+    display:block;
+    margin-left: 440px;
+    font-size: 25px;
+}
+#contact{
+    display: block;
+    margin-left: 102px;
+    margin-top: 10px;
+}
+div i{
+    display: block;
+    margin-left: 60px;
+    margin-right: 10px ;
+    font-size: 20px;
+    margin-bottom: 6px;
+
+}
+#icon{
+}
+div span{
+    font-size:18px;
+}
+#gmail{
+    font-size: 17px;
+}
+.border{
+    margin-top: 20px;
+    border-bottom: 2px solid black;
+    margin-right: 35px;
+    margin-left: 35px;
+}
+#education{
+    display: block;
+    margin-left: 90px;
+    margin-top: 10px;
+}
+.paragragh {
+    width: 200px;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.career{
+    display: block;
+    margin-left: 104px;
+    margin-top: 10px;
+}
+.list-career{
+    width: 250px;
+    margin-left: 60px;
+    margin-top: 10px;
+    font-size: 17px;
+
+}
+.influences{
+    display: block;
+    margin-left: 90px;
+    margin-top: 10px;
+}
+.ifl{
+    width: 230px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.box-center{
+    width: 570px;
+    height: 700px;
+   margin-top: -790px;
+    margin-left: 403px;
+
+}
+.border-pr{
+    border-bottom: 2px solid black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+div.list{
+    margin-left: 50px;
+}
+.box-center h2{
+    color: #e6b96f;
+}
