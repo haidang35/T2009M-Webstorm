@@ -39,10 +39,7 @@ body{
 }
 #img1{
     width: 150px;
-    height: 150px;
-    border-radius:60%;
-    -moz-border-radius:60%;
-    -webkit-border-radius:60%;
+    height: 140px;
     margin-top: 45px;
     margin-left: 77px;
 
