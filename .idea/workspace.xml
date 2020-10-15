@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fabb83ad-5d67-4389-8d27-1ba752895a03" name="Default Changelist" comment="Supply LabS3">
+    <list default="true" id="fabb83ad-5d67-4389-8d27-1ba752895a03" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CSS/labs4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo the css/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo the css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teamwork/demolabs4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teamwork/demolabs4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/labs3.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/labs3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/boxmodel.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/boxmodel.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labs3.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,11 +51,11 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\nguye\Desktop\Webstorm T2009M" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nguye\Desktop\Webstorm T2009M\Assignment 2" />
+      <recent name="C:\Users\nguye\Desktop\Webstorm T2009M" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\nguye\Desktop\Webstorm T2009M" />
     </key>
   </component>
@@ -71,7 +78,14 @@
       <workItem from="1602332713356" duration="8864000" />
       <workItem from="1602421567688" duration="1968000" />
       <workItem from="1602552988845" duration="13204000" />
-      <workItem from="1602567655297" duration="2101000" />
+      <workItem from="1602567655297" duration="2473000" />
+      <workItem from="1602581344952" duration="246000" />
+      <workItem from="1602638296927" duration="1801000" />
+      <workItem from="1602667329905" duration="157000" />
+      <workItem from="1602725153416" duration="6720000" />
+      <workItem from="1602733565290" duration="4623000" />
+      <workItem from="1602740042165" duration="2470000" />
+      <workItem from="1602768103733" duration="6498000" />
     </task>
     <task id="LOCAL-00001" summary="Supply Demo html">
       <created>1602131179642</created>
@@ -150,7 +164,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602569061914</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Supply LabS3">
+      <created>1602569822771</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1602569822771</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Supply LabS3">
+      <created>1602570107683</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1602570107683</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,10 +198,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="577" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602558080508" />
-    <state x="585" y="93" key="CommitChangelistDialog2" timestamp="1602569204781">
+    <state x="585" y="93" key="CommitChangelistDialog2" timestamp="1602570104207">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="93" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602569204781" />
+    <state x="585" y="93" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602570104207" />
     <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1602229594154">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -190,13 +218,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602230473680" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602569069279">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602570117081">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602569069279" />
-    <state x="770" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1602569195707">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602570117081" />
+    <state x="770" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1602569935631">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="770" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602569195707" />
+    <state x="770" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602569935631" />
   </component>
 </project>

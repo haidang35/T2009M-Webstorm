@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.main-box{
+
+      width: 1200px;
+      height: 1700px;
+      margin-top: 80px;
+       margin-left: 300px;
+      /*border: 3px solid black;*/
+      box-shadow: 0 0 5px;
+      overflow: hidden;
+}
+.khoi-tieu-de{
+    background-color: #DDDDDD;
+    width: 1070px;
+    height: 50px ;
+    margin-top: 37px;
+    margin-left: 66px;
+    overflow: hidden;
+}
+.khoi-tieu-de h2{
+    display: block;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.khoi-san-pham{
+
+    width: 1070px;
+    height: 1500px;
+    margin-top: 30px;
+    margin-left: 66px;
+}
+.san-pham{
+    width: 305px;
+    height: 500px;
+    overflow: hidden;
+    float: left;
+    margin-right: 50px;
+    margin-bottom: 40px;
+}
+.san-pham img{
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 28px;
+}
+.san-pham span{
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px; /* co chu */
+
+}
+.gia-sp{
+    color: red;
+    font-weight: bold;
+
+}
+.chitiet-sp{
+    margin-top: 26px;
+    background-color: #AAAAAA;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    color: white;
+}
+.san-pham:hover {
+    box-shadow: 0 0 5px;
+}
