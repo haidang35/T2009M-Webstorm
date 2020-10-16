@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fabb83ad-5d67-4389-8d27-1ba752895a03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/labs4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo the css/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo the css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teamwork/demolabs4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teamwork/demolabs4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/boxmodel.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/boxmodel.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs3.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/labs4.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/labs4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs4.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +79,7 @@
       <workItem from="1602733565290" duration="4623000" />
       <workItem from="1602740042165" duration="2470000" />
       <workItem from="1602768103733" duration="6498000" />
+      <workItem from="1602813749166" duration="4837000" />
     </task>
     <task id="LOCAL-00001" summary="Supply Demo html">
       <created>1602131179642</created>
