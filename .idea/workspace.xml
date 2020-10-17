@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fabb83ad-5d67-4389-8d27-1ba752895a03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/session5_pagelayout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sessiong5-pagelayout.html" afterDir="false" />
+    <list default="true" id="fabb83ad-5d67-4389-8d27-1ba752895a03" name="Default Changelist" comment="Supply Labs5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/session5_pagelayout.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/session5_pagelayout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sessiong5-pagelayout.html" beforeDir="false" afterPath="$PROJECT_DIR$/sessiong5-pagelayout.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +82,7 @@
       <workItem from="1602813749166" duration="5840000" />
       <workItem from="1602896352704" duration="12565000" />
       <workItem from="1602912112689" duration="1505000" />
-      <workItem from="1602922786935" duration="846000" />
+      <workItem from="1602922786935" duration="1469000" />
     </task>
     <task id="LOCAL-00001" summary="Supply Demo html">
       <created>1602131179642</created>
@@ -182,7 +182,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602818698814</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Supply Labs5">
+      <created>1602923644342</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1602923644342</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Supply Labs5">
+      <created>1602923849820</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1602923849820</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,17 +210,22 @@
     <MESSAGE value="Supply LabS2" />
     <MESSAGE value="Supply LabS3" />
     <MESSAGE value="Supply Labs4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Supply Labs4" />
+    <MESSAGE value="Supply Labs5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Supply Labs5" />
   </component>
   <component name="WindowStateProjectService">
     <state x="577" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602558080508">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="577" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602558080508" />
-    <state x="585" y="93" key="CommitChangelistDialog2" timestamp="1602818697965">
+    <state x="585" y="93" key="CommitChangelistDialog2" timestamp="1602923969739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="93" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602818697965" />
+    <state x="585" y="93" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602923969739" />
+    <state x="184" y="85" key="DiffContextDialog" timestamp="1602923966473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="85" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602923966473" />
     <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1602229594154">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -223,10 +242,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602230473680" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602818705353">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602923855930">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602818705353" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602923855930" />
     <state x="770" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1602569935631">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
