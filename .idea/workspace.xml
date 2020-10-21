@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fabb83ad-5d67-4389-8d27-1ba752895a03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/teamwork/demo page layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teamwork/demo_pagelayout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/LabS6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/session6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogcafe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teamwork/blogcafe.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +52,11 @@
       <recent name="C:\Users\nguye\Desktop\Webstorm T2009M" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\nguye\Desktop\Webstorm T2009M\Assignment 2" />
+      <recent name="C:\Users\nguye\Desktop\Webstorm T2009M\CSS" />
+      <recent name="C:\Users\nguye\Desktop\Webstorm T2009M\library" />
+      <recent name="C:\Users\nguye\Desktop\Webstorm T2009M\library\Bootraps" />
       <recent name="C:\Users\nguye\Desktop\Webstorm T2009M" />
+      <recent name="C:\Users\nguye\Desktop\Webstorm T2009M\Assignment 2" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -82,7 +89,13 @@
       <workItem from="1602813749166" duration="5840000" />
       <workItem from="1602896352704" duration="12565000" />
       <workItem from="1602912112689" duration="1505000" />
-      <workItem from="1602922786935" duration="15681000" />
+      <workItem from="1602922786935" duration="15842000" />
+      <workItem from="1603069858238" duration="10923000" />
+      <workItem from="1603094862835" duration="13335000" />
+      <workItem from="1603157848664" duration="10296000" />
+      <workItem from="1603172745925" duration="319000" />
+      <workItem from="1603177519148" duration="8198000" />
+      <workItem from="1603243669956" duration="9621000" />
     </task>
     <task id="LOCAL-00001" summary="Supply Demo html">
       <created>1602131179642</created>
@@ -203,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602924272489</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Demo Page Layout">
+      <created>1602950006996</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1602950006996</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,17 +238,18 @@
     <MESSAGE value="Supply LabS3" />
     <MESSAGE value="Supply Labs4" />
     <MESSAGE value="Supply Labs5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Supply Labs5" />
+    <MESSAGE value="Demo Page Layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="Demo Page Layout" />
   </component>
   <component name="WindowStateProjectService">
     <state x="577" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602558080508">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="577" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602558080508" />
-    <state x="585" y="93" key="CommitChangelistDialog2" timestamp="1602924271610">
+    <state x="585" y="93" key="CommitChangelistDialog2" timestamp="1602950006140">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="93" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602924271610" />
+    <state x="585" y="93" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602950006140" />
     <state x="184" y="85" key="DiffContextDialog" timestamp="1602923966473">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -249,10 +270,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602230473680" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602924276319">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602950011125">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602924276319" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602950011125" />
     <state x="770" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1602569935631">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
