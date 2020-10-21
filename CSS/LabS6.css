@@ -1,6 +1,5 @@
 .body{
     font-family: 'Roboto', sans-serif;
-    background-color: #232323;
     box-sizing: border-box;
     width: auto;
 
@@ -384,7 +383,7 @@ display: block;
     color: #f5f5f594;
     font-size: 16px;
     display: block;
-    margin-bottom: 16px;
+    margin-bottom: 14px;
 
 }
 .box-3{
@@ -439,7 +438,7 @@ display: block;
 }
 .confirm-button{
     float: none;
-    margin-top: 105px;
+    margin-top: 87px;
     width: 217px;
     height: 50px;
     border: 2px solid #ffffffab;
@@ -475,7 +474,7 @@ display: block;
     width: 100%;
     border: 1px solid #ffffff69;
     margin-top: 50px;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
 
 }
 .readmore a{
