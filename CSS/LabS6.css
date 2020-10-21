@@ -1,22 +1,25 @@
 .body{
     font-family: 'Roboto', sans-serif;
+    background-color: #232323;
+    box-sizing: border-box;
+    width: auto;
 
 }
 img{
     max-width: 100%;
 }
 .header-box{
-    width: 100%;
+    width: 1860px;
     height: 400px;
     overflow: hidden;
+
 }
 .header-box img{
     width: 100%;
     position: relative;
-
 }
 .header-box-top{
-    width: 100%;
+    width: 1860px;
     height: 60px;
     border-bottom: 2px solid rgba( 255, 255, 255, 0.2);
     margin-top: -782px;
@@ -24,7 +27,7 @@ img{
 
 }
 .phone-icon-box{
-    margin-top: 18px;
+    margin-top: 20px;
     float: left;
     width: 175px;
     margin-right: 30px;
@@ -44,7 +47,7 @@ img{
 }
 
 .email-box{
-    margin-top: 18px;
+    margin-top: 20px;
 }
 .email-box p{
     color: white;
@@ -98,7 +101,7 @@ img{
 .book-button p{
     width: 171px;
     height: 50px;
-    background-color: #66CCCC;
+    background-color: #009999;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -138,6 +141,10 @@ img{
 .src-list-home i{
     color: #66CCCC;
     padding-right: 10px;
+}
+.body-box{
+    width: 1860px;
+    height: auto;
 }
 .box-filter{
     font-size: 18px;
@@ -277,7 +284,7 @@ display: block;
     font-size: 16px;
 }
 .footer-box{
-    width: max;
+    width: 1860px;
     height: 600px;
     margin-top: 100px;
 }
@@ -470,4 +477,13 @@ display: block;
     margin-top: 50px;
     margin-bottom: 40px;
 
+}
+.readmore a{
+    text-decoration: none;
+}
+.readmore:hover h1{
+    color: white;
+}
+.readmore:hover{
+    background-color: #0eafaf;
 }
