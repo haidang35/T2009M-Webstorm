@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tao form nhap lieu</title>
+    <link rel="stylesheet" href="library/Bootstrap 3.4.1/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="CSS/session7.css">
+    <link rel="stylesheet" href="icon_fontawesome/css/all.css">
+</head>
+<body>
+<section class="session">
+    <div class="container">
+        <form method="post" action="#">
+            <input name="full_name" type="text" placeholder="Full Name" required/><br>
+            <input name="email_adress" type="email" placeholder="Email" required/><br>
+            <input name="password" type="password" placeholder="Password" required/><br>
+            <input name="birthday" type="date" placeholder="Birthday"/><br>
+            <input name="mycolor" type="color" placeholder="My color..."/><br>
+            <label>
+                <input name="gender" checked type="radio" value="nam"/>Nam<br>
+            </label>
+            <label>  <input name="gender" type="radio" value="nu"/>Nu </label><br>
+            <label>
+                <input name="condition" type="checkbox">Toi dong y dieu khoan
+            </label><br>
+            <select name="city">
+                <option value="hn">Ha Noi</option>
+                <option value="sg">Sai Gon</option>
+                <option value="ct">Can Tho</option>
+            </select><br>
+            <textarea name="tieusu"  rows="5 cols="10" placeholder="Tiểu sử">
+
+            </textarea><br>
+            <button type="submit">Submit</button>
+            <button type="button">Button</button>
+            <button type="reset">Reset</button>
+
+        </form>
+    </div>
+</section>
+
+</body>
+</html>

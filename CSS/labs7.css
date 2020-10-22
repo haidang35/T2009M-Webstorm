@@ -1,0 +1,45 @@
+
+body{
+    text-align: center;
+}
+.section {
+    width: 435px;
+    margin-top: 260px;
+    height: auto;
+    background-color: #aaaaaa;
+    display: inline-block;
+
+}
+.your-invite-key-box{
+    margin-top: 10px;
+}
+.your-invite-key{
+    width: 395px;
+}
+.firstname{
+    width: 200px;
+    float: left;
+    margin-right: 15px;
+}
+.lastname{
+    width: 180px;
+
+}
+.email{
+    width: 395px;
+}
+.date{
+    width: 125px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.button{
+    width: 100px;
+    height: 40px;
+    margin-left: -741px;
+
+}
+.button span{
+    font-size: 17px;
+}

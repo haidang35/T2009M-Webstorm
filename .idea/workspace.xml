@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fabb83ad-5d67-4389-8d27-1ba752895a03" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CSS/labs7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/session7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session7_demo2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessiong7-taoformnhaplieu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/LabS6.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/LabS6.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,15 +47,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\nguye\Desktop\Webstorm T2009M" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nguye\Desktop\Webstorm T2009M" />
       <recent name="C:\Users\nguye\Desktop\Webstorm T2009M\CSS" />
       <recent name="C:\Users\nguye\Desktop\Webstorm T2009M\library" />
       <recent name="C:\Users\nguye\Desktop\Webstorm T2009M\library\Bootraps" />
-      <recent name="C:\Users\nguye\Desktop\Webstorm T2009M" />
       <recent name="C:\Users\nguye\Desktop\Webstorm T2009M\Assignment 2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nguye\Desktop\Webstorm T2009M" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -91,7 +95,9 @@
       <workItem from="1603172745925" duration="319000" />
       <workItem from="1603177519148" duration="8198000" />
       <workItem from="1603243669956" duration="10422000" />
-      <workItem from="1603263591579" duration="3218000" />
+      <workItem from="1603263591579" duration="3377000" />
+      <workItem from="1603330252917" duration="4502000" />
+      <workItem from="1603334771645" duration="6227000" />
     </task>
     <task id="LOCAL-00001" summary="Supply Demo html">
       <created>1602131179642</created>
@@ -240,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603265773732</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Lab S6">
+      <created>1603266825862</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1603266825862</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,10 +277,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="577" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602558080508" />
-    <state x="585" y="93" key="CommitChangelistDialog2" timestamp="1603265773155">
+    <state x="585" y="93" key="CommitChangelistDialog2" timestamp="1603266825367">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="93" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603265773155" />
+    <state x="585" y="93" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603266825367" />
     <state x="184" y="85" key="DiffContextDialog" timestamp="1602923966473">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -288,10 +301,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602230473680" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1603265780798">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1603266829226">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603265780798" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603266829226" />
     <state x="770" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1602569935631">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
