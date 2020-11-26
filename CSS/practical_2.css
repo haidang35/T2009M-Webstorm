@@ -1,0 +1,122 @@
+body{
+    background-color: #8CBDE1;
+    text-align: center;
+}
+.header-box{
+    width: 1400px;
+    height: 350px;
+    background-image: url("../imgs/Set11/cloud.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: solid 5px white;
+    display: inline-block;
+    margin-top: 80px;
+    text-align: left;
+}
+.header-box h1{
+    color: white;
+    font-size: 45px;
+    padding-left: 15px;
+    font-weight: bold;
+}
+.main-box{
+    width: 1400px;
+    height: 900px;
+    display: inline-block;
+    /*border: solid 5px white;*/
+    margin-top: 10px;
+}
+.side-bar-left{
+    background-color: #AFD3EB;
+    float: left;
+    width: 300px;
+    height: 900px;
+    border: solid 5px white;
+    text-align: left;
+}
+.side-bar-left h2{
+    font-size:25px;
+    color: #1D5174;
+    font-weight: bold;
+    padding-left: 15px;
+}
+.side-bar-left ul{
+    padding-left: 10px;
+}
+.side-bar-left ul li{
+    list-style: none;
+    color: #1779CA;
+    font-size:16px;
+    font-weight:bold;
+    line-height: 1.5;
+}
+.main-content{
+    width: 800px;
+    height: 900px;
+    background-color: #eef5fb;
+    border-top: solid 6px white; ;
+    float: left;
+    padding-top: 10px;
+    text-align: left;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.main-content h1{
+    color: #0000FF;
+    font-size:25px;
+    font-weight:bold;
+}
+.main-content p{
+    color: #000000;
+    font-size:16px;
+}
+.side-bar-right{
+    width: 300px;
+    height: 900px;
+    float: right;
+    border: solid 5px white;
+    text-align: right;
+    padding-right: 15px;
+    background-color: white;
+}
+.side-bar-right h2{
+    font-size:25px;
+    color: #1D5174;
+    font-weight: bold;
+    padding-top: 15px;
+}
+.side-bar-right ul li{
+    list-style: none;
+    color: #1779CA;
+    font-size:18px;
+    font-weight:bold;
+    line-height: 1.25;
+    padding-top: 10px;
+}
+.side-bar-right-1{
+    background-color: #AFD3EB;
+    width: 290px;
+    height: 300px;
+    padding-left: 15px;
+    margin-top: -19px;
+    padding-right: 20px;
+}
+.side-bar-right-2{
+    background-color:#AFD3EB;
+    width: 290px;
+    height: 300px;
+    padding-left: 15px;
+    padding-right: 20px;
+    margin-top: 15px;
+}
+.footer-box{
+    width: 1400px;
+    height: 50px;
+    background-color: white;
+    display: inline-block;
+    margin-top: -5px;
+}
+.footer-box p{
+    color:#1779CA ;
+    padding-top: 15px;
+}
